@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Silvhr+😊;A+sophomore+CS+student+at+Texas+A+&+M+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Silvhr+😊;A+sophomore+CS+student+at+TAMU)](https://git.io/typing-svg)
 
 I’m currently learning 👨‍💻...
 
