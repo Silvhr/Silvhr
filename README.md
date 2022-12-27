@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working on schoolwork<br>🌞Looking to collaborate on FinTech related projects<br>🌱Currently learning about Web3 & UI/UX<br>👏Ask me about scripting in Lua <br>🥞Random Pancake
+🔭Currently working on schoolwork<br>🌞Looking to collaborate on FinTech related projects<br>🌱Currently learning about Web3 & UI/UX<br>👏Ask me about scripting in Lua <br>🥞Random Pancake
 
 
 ## 🌐 Socials:
