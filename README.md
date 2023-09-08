@@ -1,19 +1,6 @@
 # 💫 About Me:
 🔭Currently working on schoolwork<br>🌞Looking to collaborate on FinTech related projects<br>🌱Currently learning about Web3 & UI/UX<br> 🐧Ask me about Arch Linux <br>🥞Random Pancake
 
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/s1lvhr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/s1lvhr) 
-
-
-
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
