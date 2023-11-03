@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working on schoolwork<br>🌞Looking to collaborate on FinTech related projects<br>🌱Currently learning about Web3 & UI/UX<br> 🐧Ask me about Arch Linux <br>🥞Random Pancake
+🔭Currently working on schoolwork<br>🌞Looking to collaborate on FinTech related projects<br>🌱Currently learning about Web3 & ML<br> 🐧Ask me about Arch Linux <br>🥞Random Pancake
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
